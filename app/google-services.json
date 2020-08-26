@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23088836502",
+    "firebase_url": "https://emailpasswordauth-b485d.firebaseio.com",
+    "project_id": "emailpasswordauth-b485d",
+    "storage_bucket": "emailpasswordauth-b485d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23088836502:android:bb7987331bc01bb589b7b7",
+        "android_client_info": {
+          "package_name": "com.guru.emailpasswordauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23088836502-uun690fn7crefokksiqaki1tfpmmmen3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.guru.emailpasswordauth",
+            "certificate_hash": "5971b37b28bcc9195b74dc39cc690669e3c74747"
+          }
+        },
+        {
+          "client_id": "23088836502-leh9h5s1vl5fs63mma274u3dpo1a335u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADAn-9Nl-pb43ESKyCMfuq1pN9SFpj5DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23088836502-leh9h5s1vl5fs63mma274u3dpo1a335u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
